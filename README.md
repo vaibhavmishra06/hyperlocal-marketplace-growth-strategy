@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="images/cover.png" alt="Project Cover" width="900"/>
+</p>
+
 # ErryGo - Hyperlocal Marketplace Growth Strategy & Financial Model
+
+![Consulting](https://img.shields.io/badge/Consulting-Project-blue)
+![Financial Modelling](https://img.shields.io/badge/Financial-Modelling-success)
+![Market Research](https://img.shields.io/badge/Market-Research-orange)
+![Business Strategy](https://img.shields.io/badge/Business-Strategy-red)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoftexcel&logoColor=white)
 
 A consulting-style strategy project covering market research, financial modelling, GTM strategy, and business planning for an AI-powered hyperlocal marketplace.
 
