@@ -8,7 +8,6 @@
 ![Financial Modelling](https://img.shields.io/badge/Financial-Modelling-success)
 ![Market Research](https://img.shields.io/badge/Market-Research-orange)
 ![Business Strategy](https://img.shields.io/badge/Business-Strategy-red)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoftexcel&logoColor=white)
 
 A consulting-style strategy project covering market research, financial modelling, GTM strategy, and business planning for an AI-powered hyperlocal marketplace.
 
@@ -86,3 +85,7 @@ Delhi Technological University (DTU)
 GitHub: https://github.com/vaibhavmishra06
 
 LinkedIn: https://www.linkedin.com/in/vaibhavmishradtu/
+
+## Disclaimer
+
+This repository is shared for educational and portfolio purposes. It reflects independent analysis and publicly available information combined with project work. It does not represent official business plans or confidential information of ErryGo.
