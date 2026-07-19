@@ -89,3 +89,4 @@ LinkedIn: https://www.linkedin.com/in/vaibhavmishradtu/
 ## Disclaimer
 
 This repository is shared for educational and portfolio purposes. It reflects independent analysis and publicly available information combined with project work. It does not represent official business plans or confidential information of ErryGo.
+This project was developed during my internship and has been adapted for portfolio purposes using independent analysis and publicly available information.
